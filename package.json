@@ -1,10 +1,6 @@
 {
-  "author": {
-    "name": "Avaer Kazmer <a@modules.io>"
-  },
-  "bugs": {
-    "url": "https://github.com/modulesio/node-pty-win/issues"
-  },
+  "author": { "name": "Avaer Kazmer <a@modules.io>" },
+  "bugs": { "url": "https://github.com/modulesio/node-pty-win/issues" },
   "dependencies": {
     "nan": "^2.6.2"
   },

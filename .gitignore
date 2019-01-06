@@ -1,0 +1,7 @@
+deps/winpty/src/.vs/
+deps/winpty/src/Release/
+yarn.lock
+node_modules/
+deps/winpty/build-gyp/
+*.exp
+*.pdb
