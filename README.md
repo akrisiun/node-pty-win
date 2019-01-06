@@ -1,8 +1,9 @@
 # node-pty
 
+```
 git clone https://github.com/modulesio/node-pty-win
-npm install --save `
-https://github.com/modulesio/node-pty-win/tarball/master
+npm install --save https://github.com/akrisiun/node-pty-win/tarball/master
+```
 
 [![Travis CI build status](https://travis-ci.org/Tyriar/node-pty.svg?branch=master)](https://travis-ci.org/Tyriar/node-pty)
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/1064dcr2t2r90q4n/branch/master?svg=true)](https://ci.appveyor.com/project/Tyriar/node-pty/branch/master)
